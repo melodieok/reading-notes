@@ -1,11 +1,14 @@
-All About Markdowns
-Notes
-When you write in Markdown, the text is stored in a plaintext file that has an .md or .markdown extension
+# All About Markdowns
+
+##Notes
+
+*When you write in Markdown, the text is stored in a plaintext file that has an .md or .markdown extension
 Markdown applications use something called a Markdown processor to take the Markdown-formatted text and output it to HTML format
 Markdown is a very easy way to take notes, add your content to a website and get documents ready to print.
 Markdown is simple to learn, so it doesn't take the user a long time to learn how to use it which is one of it's advantages.
-Markdown is good to format anything from a website to a grocery list
-Common Q&A's for Markdowns:
+Markdown is good to format anything from a website to a grocery list*
+
+##Common Q&A's for Markdowns:
 
 1. What is Markdown?
 
