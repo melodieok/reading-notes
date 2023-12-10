@@ -10,7 +10,8 @@ I will continually strive to ***embrace*** challenges, and not let the lack of e
 
 ## About Me
 
-![image](https://github.com/melodieok/reading-notes/assets/59869101/ee4b3835-5ec3-42e4-9f4b-aea591a0e498)
+![image](https://github.com/melodieok/reading-notes/assets/59869101/c42c55c7-ff27-476b-a78e-7eeca921a6bf)
+
 
 
 I have over 20 years of AP experience using various softwares, but I am now in a Product Support role on the backend of accounting. It has been interesting to me learn more on this end of software development.
